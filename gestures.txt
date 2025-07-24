@@ -1,0 +1,6 @@
+hand_raise
+understood
+not_understood
+repeat
+not_audible
+pause
